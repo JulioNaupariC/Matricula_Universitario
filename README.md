@@ -298,7 +298,7 @@ Deberías ver el dashboard principal con 5 módulos:
 
 ---
 
-## 📖 Uso del Sistema
+##  Uso del Sistema
 
 ### 1. Gestión de Alumnos
 
